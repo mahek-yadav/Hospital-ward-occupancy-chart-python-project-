@@ -1,0 +1,5 @@
+name,total_beds,occupied_beds
+General,50,30
+ICU,20,15
+Maternity,25,10
+Pediatrics,30,18
